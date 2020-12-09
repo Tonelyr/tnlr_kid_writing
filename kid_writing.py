@@ -1,6 +1,6 @@
 print("Welcome to the KiD wRiTiNg Generator !") 
 
-userinput = input("Word to change: ")
+userinput = input("Words to change: ")
 
 new_input = ""
 
